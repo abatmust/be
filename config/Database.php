@@ -4,7 +4,7 @@
     private $host = 'localhost';
     private $db_name = 'angular';
     private $username = 'root';
-    private $password = 'TJjjxz4AabHy9sGY';
+    private $password = '';
     private $conn;
 
     // DB Connect
